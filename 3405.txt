@@ -11,6 +11,7 @@ Title: Ragged Lady, Part 1
 Author: William Dean Howells
 
 Release Date: October 24, 2004 [EBook #3405]
+[Last updated: August 10, 2014]
 
 Language: English
 
@@ -197,7 +198,7 @@ Lander. "It don't seem to be clea'ed off very much."
 "and we should have had moa, but fatha wasn't very well, this spring;
 he's eva so much better than when we fust came he'e."
 
-"It has, the name of being a very healthy locality," said Mrs. Lander,
+"It has the name of being a very healthy locality," said Mrs. Lander,
 somewhat discontentedly, "though I can't see as it's done me so very much
 good, yit. Both your payrints livin'?"
 
@@ -238,8 +239,8 @@ pine woods, and then we built this house."
 
 "I should have thought you would have died."
 
-The girl laughed. "Oh, no, we all kept fast-rate. We slept in the tents
-we had two--and we cooked in the shanty." She smiled at the notion in
+The girl laughed. "Oh, no, we all kept fast-rate. We slept in the
+tents--we had two--and we cooked in the shanty." She smiled at the notion in
 adding, "At fast the neighbas thought we we'e Gipsies; and the summa
 folks thought we were Indians, and wanted to get baskets of us."
 
@@ -394,7 +395,7 @@ Mrs. Lander, when she had wrung the last drop of information out of him,
 let him crawl back to his work, mentally flaccid, and let her husband
 drive on, but under a fire of conjecture and asseveration that was
 scarcely intermitted till they reached their hotel. That night she talked
-along time about their afternoon's adventure before she allowed him to go
+a long time about their afternoon's adventure before she allowed him to go
 to sleep. She said she must certainly see the child again; that they must
 drive down there in the morning, and ask her all about herself.
 
@@ -1028,7 +1029,7 @@ thought she could do something to it for me."
 
 "Yes'm."
 
-"Well, I may as well 'let you see it. If you'll reach into that fuhthest
+"Well, I may as well let you see it. If you'll reach into that fuhthest
 closet, you'll find it on the last uppa hook on the right hand, and if
 you'll give it to me, I'll show you what I want done. Don't mind the
 looks of that closet; I've just tossed my things in, till I could get a
@@ -1558,9 +1559,9 @@ VII.
 
 One day the shoeman stopped his wagon at the door of the helps' house,
 and called up at its windows, "Well, guls, any of you want to git a numba
-foua foot into a rumba two shoe, to-day? Now's youa chance, but you got
+foua foot into a numba two shoe, to-day? Now's youa chance, but you got
 to be quick abort it. The'e ha'r't but just so many numba two shoes made,
-and the wohld's full o' rumba foua feet."
+and the wohld's full o' numba foua feet."
 
 The windows filled with laughing faces at the first sound of the
 shoeman's ironical voice; and at sight of his neat wagon, with its
@@ -1721,7 +1722,7 @@ a'n't any of you disposed to buy 'em this aftanoon, 'and I a'n't
 complainin'; you done pootty well by me, already, and I don't want to
 uhge you; but I do want to carry away the picture, in my mind's eye--what
 you may call a mental photograph--of this slipper on the kind of a foot
-it was made fob, so't I can praise it truthfully to my next customer.
+it was made for, so't I can praise it truthfully to my next customer.
 What do you say, ma'am?" he addressed himself with profound respect to
 Clementina.
 
@@ -1808,7 +1809,7 @@ as if to detain it, while he walked on.
 "Well, not as you may say sell, exactly," returned the shoeman,
 cautiously.
 
-"Have you-got them yet?" asked the student.
+"Have you--got them yet?" asked the student.
 
 "Guess so," said the man. "Like to see 'em?"
 
@@ -2267,7 +2268,7 @@ indulge a generous emotion. She caught the girl in her arms. "I want to
 kiss you; I want to hug you, Clementina!"
 
 The notion of a dance for the following night to celebrate the success of
-the house in the coaching parade came to Mrs. Milray aver a welsh-rarebit
+the house in the coaching parade came to Mrs. Milray over a welsh-rarebit
 which she gave at the close of the evening. The party was in the charge
 of Gregory, who silently served them at their orgy with an austerity that
 might have conspired with the viand itself against their dreams, if they
@@ -2687,7 +2688,7 @@ which mystified Mrs. Atwell.
 
 "You tied readin' to Mr. Milray?"
 
-"Oh, no'm-no, I mean. But I guess I betta go home. I guess I've been away
+"Oh, no'm--no, I mean. But I guess I betta go home. I guess I've been away
 long enough."
 
 "Well, you're a good gul, Clem. I presume your motha's got a right to
@@ -2975,7 +2976,7 @@ When she came back with the girl the next morning, she had thought of
 something in the nature of credentials. It was the letter from her church
 in Boston, which she took whenever she left home, so that if she wished
 she might unite with the church in any place where she happened to be
-stopping. It did not make a great impression upon the Klaxons, who were
+stopping. It did not make a great impression upon the Claxons, who were
 of no religion, though they allowed their children to go to the Episcopal
 church and Sunday-school, and always meant to go themselves. They said
 they would like to talk the matter over with the rector, if Mrs. Lander
@@ -3416,7 +3417,7 @@ nervousness.
 "I did think," Mrs. Lander went on, "that I should go into the Vonndome,
 for December and January, but just as likely as not he'd come pesterin'
 the'a, too, and I wouldn't go, now, if you was to give me the whole city
-of Boston. Why shouldn't we go to Florid?"
+of Boston. Why shouldn't we go to Florida?"
 
 When Mrs. Lander had once imagined the move, the nomadic impulse mounted
 irresistably in her. She spoke of hotels in the South, where they could
